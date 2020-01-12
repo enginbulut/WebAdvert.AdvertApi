@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
+    <Authors>Engin B.</Authors>
+    <Company>None</Company>
+    <Product>Web Advert Microservices</Product>
+    <PackageProjectUrl>https://github.com/enginbulut/WebAdvert.AdvertApi</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/enginbulut/WebAdvert.AdvertApi</RepositoryUrl>
+    <PackageId>Engin.AdvertApi.Models</PackageId>
   </PropertyGroup>
 
 </Project>
